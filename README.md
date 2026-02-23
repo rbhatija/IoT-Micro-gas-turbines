@@ -165,13 +165,6 @@ The Tableau dashboard includes:
 - Logical layout  
 - Focus on actionable insights
 
----
-
-## Repository Structure
-
----
-To be updated later
-
 ## How to Run the Project
 
 1. Clone the repository  
